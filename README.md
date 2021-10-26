@@ -1,5 +1,10 @@
 # 웹 소켓 시뮬레이션 테스트
 
+흐름
+=
+![image](https://user-images.githubusercontent.com/14482154/138837461-49571b9f-35b0-4322-80cb-f96d58c5fa9a.png)
+
+
 패키지 구성
 =
 * ws-simulation/src/main/java/com/osc/ws/config : 웹 소켓 구성
